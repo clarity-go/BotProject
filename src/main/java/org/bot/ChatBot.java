@@ -1,4 +1,4 @@
-package org.goiteens;
+package org.bot;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
